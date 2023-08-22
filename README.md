@@ -18,9 +18,9 @@
 - [x] Making the plot easier to read and more informative
 - [x] What is going on?! Volatility in cryptocurrencies
 - [x] Well, we can already see that things are *a bit* crazy
-7. Ok, those are... interesting. Let's check the weekly Series too.
-8. How small is small?
-9. Most coins are tiny
+- [x] Ok, those are... interesting. Let's check the weekly Series too.
+- [x] How small is small?
+- [x] Most coins are tiny
 
 ---
 ##### 💻 At <a href="https://www.datacamp.com" target="_blank">DataCamp</a>.
